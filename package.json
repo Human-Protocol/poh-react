@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bakoushin/poh-react.git"
+    "url": "https://github.com/Human-Protocol/poh-react.git"
   },
   "bugs": {
-    "url": "https://github.com/bakoushin/poh-react/issues"
+    "url": "https://github.com/Human-Protocol/poh-react/issues"
   },
-  "homepage": "https://github.com/bakoushin/poh-react#readme",
+  "homepage": "https://github.com/Human-Protocol/poh-react#readme",
   "files": [
     "lib"
   ],
