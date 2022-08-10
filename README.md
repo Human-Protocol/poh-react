@@ -8,7 +8,7 @@ Used as a wrapper for PoH validators.
 
 ## Live dApp demo
 
-https://poh-counter.bakoush.in ([source code](https://github.com/bakoushin/poh-counter-example))
+https://poh-counter.bakoush.in ([source code](https://github.com/Human-Protocol/poh-counter-example))
 
 ## Install
 
@@ -71,7 +71,7 @@ const handleClick = () => {
 
 ## Using Sovereign PoH
 
-If you want to use [sovereign PoH](https://github.com/bakoushin/poh-contracts#sovereign-proof) instead of the basic one, you have to provide additional `options` object to `useProofOfHumanity` hook.
+If you want to use [sovereign PoH](https://github.com/Human-Protocol/poh-contracts#sovereign-proof) instead of the basic one, you have to provide additional `options` object to `useProofOfHumanity` hook.
 
 `Options` object has two properties:
 
@@ -117,7 +117,7 @@ Example plugin: [hCaptcha validator](https://npmjs.com/package/poh-validator-hca
 - [Proof-of-Humanity hCaptcha Validator API](https://hub.docker.com/r/bakoushin/poh-validator-hcaptcha)
 - [Proof-of-Humanity hCaptcha Validator React](https://npmjs.com/package/poh-validator-hcaptcha-react)
 - [Proof-of-Humanity Solidity Contracts](https://npmjs.com/package/poh-contracts)
-- [Counter dApp Example](https://github.com/bakoushin/poh-counter-example)
+- [Counter dApp Example](https://github.com/Human-Protocol/poh-counter-example)
 
 ## Author
 
